@@ -1,0 +1,2 @@
+# Sorting-Algorithm-Visualizer
+Python Sorting Algorithm Visualizer: Dive deep into the fascinating world of sorting with this project, which brings to life some of the most widely recognized sorting algorithms. Experience visual representations of techniques such as Insertion Sort (I), Bubble Sort (B), Selection Sort (S), Merge Sort (M), and the Quick Sort (Q). This interactive tool provides a clear, intuitive understanding of how each method functions, making the intricacies of sorting algorithms accessible and engaging for all.
